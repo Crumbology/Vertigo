@@ -57,5 +57,4 @@ ThermalDynamics-[1.7.10]1.0.0RC5-94
 ThermalExpansion-[1.7.10]4.0.0RC6-138
 ThermalFoundation-[1.7.10]1.0.0RC4-58
 Waila-1.5.9_1.7.10
-warpbook-1.7.10_2.0.36
 Ztones-1.7.10-2.2.1
