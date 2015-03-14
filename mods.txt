@@ -31,6 +31,7 @@ FastLeafDecay-1.7.10-1.0
 Fluxed Trinkets-1.7.10-1.0.54
 FWG-1.0.3
 ibench-1.7.10-1.0.12
+immibis-core-59.0.8
 INpureCore-[1.7.10]1.0.0B9-54
 InventoryTweaks-1.59-dev-152
 ironchest-1.7.10-6.0.62.742-universal
