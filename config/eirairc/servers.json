@@ -1,0 +1,14 @@
+[
+  {
+    "address": "irc.esper.net",
+    "nick": "CrumbologyCW",
+    "bot": {
+      "relayIRCJoinLeave": false
+    },
+    "channels": [
+      {
+        "name": "#Tybak"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2 @@
+OpenBlocks:hangglider,1,0
+minecraft:written_book,1,0,{author:"Crumbology",title:"Welcome",pages:[0:"Welcome to Vertigo.\n\nHang glider courtesy of the Crumbrella Corporation.\n\nTry not to die.\n\nFor further help and information www.google.com "]}
