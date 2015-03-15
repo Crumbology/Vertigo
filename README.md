@@ -4,6 +4,7 @@ Skyland Survival
 Based on Fun World Gen, configured for skylands survival.
 
 
+<<<<<<< HEAD
 forge-1.7.10-10.13.2.1291-universal
 
 [1.7.10]bspkrsCore-universal-6.15
@@ -64,3 +65,7 @@ ThermalExpansion-[1.7.10]4.0.0RC6-138
 ThermalFoundation-[1.7.10]1.0.0RC4-58
 Waila-1.5.9_1.7.10
 Ztones-1.7.10-2.2.1
+=======
+
+
+>>>>>>> origin/master
