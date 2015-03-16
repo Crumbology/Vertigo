@@ -6,14 +6,12 @@ Based on Fun World Gen, configured for skylands survival.
 **Mod List 3/15/15**
 
 - forge-1.7.10-10.13.2.1291-universal
-
 - [1.7.10]bspkrsCore-universal-6.15
 - Baubles-1.7.10-1.0.1.10
 - CodeChickenLib-1.7.10-1.1.3.127-universal
 - commons-codec-1.9
 - commons-compress-1.8.1
 - ForgeMultipart-1.7.10-1.1.1.323-universal
-
 - [1.7.10]StartingInventory-universal-1.7.10.r03
 - [1.7.10]WorldStateCheckpoints-client-1.7.10.r03
 - appliedenergistics2-rv2-beta-10
