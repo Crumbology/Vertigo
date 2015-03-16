@@ -13,7 +13,6 @@ Based on Fun World Gen, configured for skylands survival.
 - commons-compress-1.8.1
 - ForgeMultipart-1.7.10-1.1.1.323-universal
 - [1.7.10]StartingInventory-universal-1.7.10.r03
-- [1.7.10]WorldStateCheckpoints-client-1.7.10.r03
 - appliedenergistics2-rv2-beta-10
 - Automagy-1.7.10-0.21
 - bdlib-mc1710-1.6.5.52
