@@ -128,7 +128,7 @@ dimensionExclude attributes:
     <dimensionExclude name="Twilight Forest"/>
   </entry>
   
-  <entry id="DireWolf" mobName="enderzoo.DireWolf" rate="30" minGroupSize="2" maxGroupSize="6">
+  <entry id="DireWolf" mobName="enderzoo.DireWolf" rate="30" minGroupSize="2" maxGroupSize="6" remove="true">
     <biomeFilter type="all">
       <biome type="SNOWY" />
       <biome type="CONIFEROUS" />      
