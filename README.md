@@ -26,6 +26,7 @@ Based on Fun World Gen, configured for skylands survival.
 - dark_menagerie-1.7.10-beta-2.0
 - denseores-1.5
 - dimensional-anchor-59.0.2
+- DragonAPI 1.7.10 V5b
 - EnderIO-1.7.10-2.2.8.349
 - EnderStorage-1.7.10-1.4.5.28-universal
 - enderutilities-1.7.10-0.3.5.1
@@ -51,7 +52,8 @@ Based on Fun World Gen, configured for skylands survival.
 - ProgressiveAutomation-1.7.10-1.6.1
 - redlogic-59.1.9
 - RedstoneArsenal-[1.7.10]1.1.0RC4-54
-- rftools-2.55
+- rftools-2.64
+- RotaryCraft 1.7.10 V5b
 - SimplyJetpacks-MC1.7.10-1.4.1
 - StevesWorkshop-0.5.1
 - Thaumcraft-1.7.10-4.2.3.5
